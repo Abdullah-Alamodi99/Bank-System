@@ -1,0 +1,38 @@
+﻿  BankSystem.cpp
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUser.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(36,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(50,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(75,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(94,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(111,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(124,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(171,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(216,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(236,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(276,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(331,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(336,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsString.h(349,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUser.h(159,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUser.h(37): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsInputValidate.h(122,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(184,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(42): message : see declaration of 'clsBankClient::stTransferLogRecord'
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(64,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(358,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(370,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsDeleteClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUpdateClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUtil.h(52,1): warning C4102: 'defualt': unreferenced label
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUtil.h(63,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUtil.h(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsTotalBalancesScreen.h(53,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsBankClient.h(313): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Admin\source\repos\BankSystem\BankSystem\clsUser.h(317): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\Admin\source\repos\BankSystem\Debug\BankSystem.exe

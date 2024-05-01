@@ -1,0 +1,26 @@
+﻿  BankSystem.cpp
+C:\My Projects\BankSystem\BankSystem\clsUser.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\My Projects\BankSystem\BankSystem\clsString.h(36,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsString.h(50,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsString.h(236,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsString.h(276,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsString.h(331,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsString.h(336,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsUtil.h(52,1): warning C4102: 'defualt': unreferenced label
+C:\My Projects\BankSystem\BankSystem\clsUser.h(161,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\My Projects\BankSystem\BankSystem\clsUser.h(38): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\My Projects\BankSystem\BankSystem\clsInputValidate.h(107,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(184,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(42): message : see declaration of 'clsBankClient::stTransferLogRecord'
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(64,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(358,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(370,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsDeleteClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\My Projects\BankSystem\BankSystem\clsUpdateClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\My Projects\BankSystem\BankSystem\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\My Projects\BankSystem\BankSystem\clsTotalBalancesScreen.h(53,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\My Projects\BankSystem\BankSystem\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\My Projects\BankSystem\BankSystem\clsBankClient.h(313): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\My Projects\BankSystem\BankSystem\clsUser.h(319): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\My Projects\BankSystem\x64\Debug\BankSystem.exe
